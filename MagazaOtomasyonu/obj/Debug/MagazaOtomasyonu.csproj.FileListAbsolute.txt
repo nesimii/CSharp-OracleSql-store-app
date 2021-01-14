@@ -1,0 +1,16 @@
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\bin\Debug\MagazaOtomasyonu.exe.config
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\bin\Debug\MagazaOtomasyonu.exe
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\bin\Debug\MagazaOtomasyonu.pdb
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.AnaEkran.resources
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.Properties.Resources.resources
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.exe
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.pdb
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.PersonelGiris.resources
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.YoneticiGiris.resources
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.PersonelEkran.resources
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.csproj.CopyComplete
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.YoneticiEkran.resources
+C:\Users\Nesimi\source\repos\MagazaOtomasyonu\obj\Debug\MagazaOtomasyonu.csprojAssemblyReference.cache
